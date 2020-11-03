@@ -1,5 +1,5 @@
 # High-net-worth Family Database (HFD)
-PBO’s *High-net-worth Family Database* (HFD) contains the microdata PBO used to produce an estimate of the wealth of Canadian families worth millions and billions of dollars. HFD was constructed using publicly available data from year-end 2016. 
+PBO’s *High-net-worth Family Database* (HFD) contains the microdata PBO used to produce an estimate of the wealth of Canadian families worth millions and billions of dollars. HFD was constructed using publicly available data from year-end 2016. A [scaled up to year-end 2019](https://github.com/pbo-dpb/HFD-2019--BDFE-2019) version of HFD is also available at the [PBO website](https://www.pbo-dpb.gc.ca).
 
 HFD is available in the following microdata files. For more information, including on concepts, data sources, and modelling approaches, users should refer to PBO’s report, “[Estimating the Top Tail of the Family Wealth Distribution in Canada](https://pbo-dpb.gc.ca/en/blog/news/RP-2021-007-S--estimating-top-tail-family-wealth-distribution-in-canada--estimation-queue-superieure-distribution-patrimoine-familial-au-canada)”. The use and interpretation of the data contained in HFD is entirely the responsibility of users.
 
@@ -24,7 +24,7 @@ HFD contains information adapted from Statistics Canada, Survey of Financial Sec
 
 # Base de données sur les familles à valeur nette élevée (BDFE)
 
-La Base de données sur les familles à valeur nette élevée (BDFE) du DPB contient les microdonnées que ce dernier a utilisé pour dresser une estimation du patrimoine des familles canadiennes dont la valeur nette se chiffre en millions et en milliards de dollars. La BDFE a été élaborée à partir de données publiées à la fin de l’année 2016.
+La Base de données sur les familles à valeur nette élevée (BDFE) du DPB contient les microdonnées que ce dernier a utilisé pour dresser une estimation du patrimoine des familles canadiennes dont la valeur nette se chiffre en millions et en milliards de dollars. La BDFE a été élaborée à partir de données publiées à la fin de l’année 2016. Une [version de la BDFE mise à l'échelle de la fin de l'année 2019](https://github.com/pbo-dpb/HFD-2019--BDFE-2019) est également disponible sur le [site web du DPB](https://www.pbo-dpb.gc.ca).
 
 La BDFE est disponible dans les fichiers de microdonnées suivants. Pour obtenir plus d’informations, notamment sur les concepts, les sources des données et les approches de modélisation, les utilisateurs devraient consulter au rapport du DPB intitulé « [Estimation de la queue supérieure de la distribution du patrimoine familial au Canada](https://pbo-dpb.gc.ca/fr/blog/news/RP-2021-007-S--estimating-top-tail-family-wealth-distribution-in-canada--estimation-queue-superieure-distribution-patrimoine-familial-au-canada) ». L’utilisation et l’interprétation des données contenues dans la BDFE relèvent entièrement de la responsabilité des utilisateurs.
 
